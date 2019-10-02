@@ -791,22 +791,22 @@ input {
 
 ::-webkit-input-placeholder { /* WebKit browsers */
     color: #9a0015;
-    font-style: italic;
+    /*font-style: italic;*/
 }
 
 :-moz-placeholder { /* Mozilla Firefox 4 to 18 */
     color: #9a0015;
-    font-style: italic;
+    /*font-style: italic;*/
 }
 
 ::-moz-placeholder { /* Mozilla Firefox 19+ */
     color: #9a0015;
-    font-style: italic;
+    /*font-style: italic;*/
 }
 
 :-ms-input-placeholder { /* Internet Explorer 10+ */
     color: #9a0015;
-    font-style: italic;
+    /*font-style: italic;*/
 }
 
 .cbp-mc-submit-wrap {
