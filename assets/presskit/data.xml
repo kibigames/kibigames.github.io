@@ -1,0 +1,141 @@
+<?xml version="1.0" encoding="utf-8"?>
+<!-- example file containing base tags -->
+
+<game>	
+	<title>Kibi Game Studio</title>
+	<founding-date>October 1th, 2019</founding-date>
+	<website>https://kibigames.com/</website>
+	<based-in>Based in Taipei, Taiwan</based-in>
+	
+	<press-contact>kibi.game.studio@gmail.com</press-contact>
+	<analytics>UA-149265965-1</analytics>
+
+	<phone>--</phone>
+	<address>
+		<line>--</line>
+	</address>
+
+	<socials>
+		<social>
+			<name>Twitter</name>
+			<link>https://twitter.com/KibiGames</link>
+		</social>
+		<social>
+			<name>Facebook</name>
+			<link>https://facebook.com/Kibi-Game-Studio-265264364098542/</link>
+		</social>
+		<social>
+			<name>Discord</name>
+			<link>https://discordapp.com/invite/d3MKJHx</link>
+		</social>
+	</socials>
+
+	<description>	
+		We're a small game studio based in Taiwan.
+	</description>
+		
+	<histories>
+		<history>
+			<header>History</header>
+			<text>WIP.</text>
+		</history>
+	</histories>
+		
+	<trailers>
+		<trailer>
+			<name>A prototype gameplay video</name>
+			<youtube>DlkPPUnVqPo</youtube>
+		</trailer>
+	</trailers>
+	
+	<!--
+	<awards>
+		<award>
+			<description> </description>
+			<info> </info>
+		</award>
+	</awards>
+	-->
+	
+	<!--
+	<quotes>
+		<quote>
+			<description>This is a rather insignificant quote by a highly important person.</description>
+			<name>Person Name</name>
+			<website>Website</website>
+			<link>http://www.website.com/</link>
+		</quote>
+		<quote>
+			<description>An extremely positive quote from a rather insignificant person. Also great.</description>
+			<name>Some Guy</name>
+			<website>This Page Is Visited By 12 Visitors A Month</website>
+			<link>http://geocities.blog.com/</link>
+		</quote>
+		<quote>
+			<description>I pretend to love this game even though I do not actually understand it.</description>
+			<name>Pretentious Bastard</name>
+			<website>Artsy Page</website>
+			<link>http://art.tumblr.com/</link>
+		</quote>
+		<quote>
+			<description>HOLY SHIT SO AMAZING</description>
+			<name>Caps Guy</name>
+			<website>Angry Review</website>
+			<link>http://thispage.net/angrytube</link>
+		</quote>
+	</quotes>
+	-->
+
+	<press-can-request-copy>TRUE</press-can-request-copy> <!-- can be true or false -->
+	<monetization-permission>monetize</monetization-permission> <!-- can be: 	false (no video allowed),
+																			 	ask (permission on case-per-case basis),
+																			 	non-commercial (no monetization allowed),
+																			 	monetize (full permission) -->	
+	<!--
+	<additionals>
+		<additional>
+			<title>Company Link #1</title>
+			<description>This link is a link that might be useful. You can check it out at</description>
+			<link>http://somemusicsite.com/thislink</link>
+		</additional>
+	</additionals>
+	-->
+
+	<credits>
+		<credit>
+			<person>Mala Yang</person>
+			<role>Ape The Designer</role>
+		</credit>
+		<credit>
+			<person>Victor Lee</person>
+			<role>Husky The Programmer</role>
+		</credit>
+		<credit>
+			<person>PN Chen</person>
+			<role>Cuckooshrike The Artist</role>
+		</credit>
+	</credits>
+	
+	<contacts>
+		<contact>
+			<name>Inquiries</name>
+			<mail>kibi.game.studio@gmail.com</mail>
+		</contact>
+		<contact>
+			<name>Twitter</name>
+			<link>http://twitter.com/KibiGames</link>
+		</contact>
+		<contact>
+			<name>Facebook</name>
+			<link>http://facebook.com/Kibi-Game-Studio-265264364098542</link>
+		</contact>
+		<contact>
+			<name>Discord</name>
+			<link>https://discordapp.com/invite/d3MKJHx</link>
+		</contact>
+		<contact>
+			<name>Website</name>
+			<link>https://Kibigames.com</link>
+		</contact>
+	</contacts>
+</game>
