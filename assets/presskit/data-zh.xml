@@ -2,10 +2,10 @@
 <!-- example file containing base tags -->
 
 <game>	
-	<title>Kibi Game Studio</title>
-	<founding-date>5 May, 2017</founding-date>
+	<title>吉比遊戲</title>
+	<founding-date>2017 5.5</founding-date>
 	<website>https://kibigames.com/</website>
-	<based-in>Taipei, Taiwan</based-in>
+	<based-in>台灣，台北</based-in>
 	
 	<press-contact>kibi.game.studio@gmail.com</press-contact>
 	<analytics>UA-149265965-1</analytics>
@@ -31,19 +31,19 @@
 	</socials>
 
 	<description>	
-		We're a small game studio based in Taiwan.
+		我們是一個小小的聚合創作工房，猩猩負責設計、哈士奇負責製作、鵪鶉負責上色，各自隨心所欲的共同創作感興趣的作品。
 	</description>
 		
 	<histories>
 		<history>
-			<header>History</header>
-			<text>WIP.</text>
+			<header>起源</header>
+			<text>成立於2017年5月</text>
 		</history>
 	</histories>
 		
 	<trailers>
 		<trailer>
-			<name>A prototype gameplay video</name>
+			<name>黑熊採地雷（暫譯）目前進度</name>
 			<youtube>DlkPPUnVqPo</youtube>
 		</trailer>
 	</trailers>
@@ -104,21 +104,21 @@
 	<credits>
 		<credit>
 			<person>Mala Yang</person>
-			<role>Ape The Designer</role>
+			<role>猩猩設計師</role>
 		</credit>
 		<credit>
 			<person>Victor Lee</person>
-			<role>Husky The Programmer</role>
+			<role>哈士奇程式</role>
 		</credit>
 		<credit>
 			<person>PN Chen</person>
-			<role>Quail The Artist</role>
+			<role>鵪鶉美術設計</role>
 		</credit>
 	</credits>
 	
 	<contacts>
 		<contact>
-			<name>Inquiries</name>
+			<name>聯絡我們</name>
 			<mail>kibi.game.studio@gmail.com</mail>
 		</contact>
 		<contact>
@@ -134,7 +134,7 @@
 			<link>https://discordapp.com/invite/d3MKJHx</link>
 		</contact>
 		<contact>
-			<name>Website</name>
+			<name>官方網站</name>
 			<link>https://Kibigames.com</link>
 		</contact>
 	</contacts>

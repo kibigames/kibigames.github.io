@@ -1,0 +1,241 @@
+<?xml version="1.0" encoding="utf-8"?>
+<language>
+	<!-- Set for texts used in 'index.php', and other pages --> 
+	<set>
+		<translation>
+			<base>Language: </base>
+			<local>語言: </local>
+		</translation>
+		<translation>
+			<base>Factsheet</base>
+			<local>簡介</local>
+		</translation>
+		<translation>
+			<base>Description</base>
+			<local>敘述</local>
+		</translation>
+		<translation>
+			<base>History</base>
+			<local>源起</local>
+		</translation>
+		<translation>
+			<base>Projects</base>
+			<local>吉比遊戲</local>
+		</translation>
+		<translation>
+			<base>Videos</base>
+			<local>影片</local>
+		</translation>
+		<translation>
+			<base>Images</base>
+			<local>圖片</local>
+		</translation>
+		<translation>
+			<base>Logo &amp; Icon</base>
+			<local>Logo &amp; Icon</local>
+		</translation>
+		<translation>
+			<base>Awards &amp; Recognition</base>
+			<local>獲獎紀錄</local>
+		</translation>
+		<translation>
+			<base>Selected Articles</base>
+			<local>相關報導</local>
+		</translation>
+		<translation>
+			<base>Additional Links</base>
+			<local>相關連結</local>
+		</translation>
+		<translation>
+			<base>Team</base>
+			<local>團隊成員</local>
+		</translation>
+		<translation>
+			<base>Contact</base>
+			<local>聯絡方式</local>
+		</translation>
+		<translation>
+			<base>Developer:</base>
+			<local>開發成員:</local>
+		</translation>
+		<translation>
+			<base>Based in %s</base>
+			<local>地點 %s</local>
+		</translation>
+		<translation>
+			<base>Founding date:</base>
+			<local>創立於:</local>
+		</translation>
+		<translation>
+			<base>Website:</base>
+			<local>網站:</local>
+		</translation>
+		<translation>
+			<base>Press / Business Contact:</base>
+			<local>媒體 / 合作 聯絡:</local>
+		</translation>
+		<translation>
+			<base>Social:</base>
+			<local>社交:</local>
+		</translation>
+		<translation>
+			<base>Releases:</base>
+			<local>發行作品:</local>
+		</translation>
+		<translation>
+			<base>Address:</base>
+			<local>地址:</local>
+		</translation>
+		<translation>
+			<base>Phone:</base>
+			<local>電話:</local>
+		</translation>
+		<translation>
+			<base><![CDATA[There are currently no trailers available for %s. Check back later for more or <a href="#contact">contact us</a> for specific requests!]]></base>
+			<local><![CDATA[目前沒有 %s 的預告. 之後再回來看看，或是透過 <a href="#contact">聯絡我們</a> 來提供你的需求喔]]></local>
+		</translation>
+		<translation>
+			<base><![CDATA[There are far more images available for %s, but these are the ones we felt would be most useful to you. If you have specific requests, please do <a href="#contact">contact us</a>!]]></base>
+			<local><![CDATA[如果需要更多%s的圖片或相關資訊，請 <a href="#contact">聯絡我們</a>]]></local>
+		</translation>
+		<translation>
+			<base>download logo files as .zip (%s)</base>
+			<local>下載Logo的.zip壓縮檔 (%s)</local>
+		</translation>
+		<translation>
+			<base><![CDATA[There are currently no logos or icons available for %s. Check back later for more or <a href="#contact">contact us</a> for specific requests!]]></base>
+			<local><![CDATA[目前沒有%s的Logo或Icon. 之後再回來看看，或是透過 <a href="#contact">聯絡我們</a> 來提供你的需求喔]]></local>
+		</translation>
+		<translation>
+			<base>Team &amp; Repeating Collaborators</base>
+			<local>團隊&amp;合作夥伴</local>
+		</translation>
+		<translation>
+			<base>Contact</base>
+			<local>聯絡方式</local>
+		</translation>
+	</set>
+	<!-- Set for additional texts used in 'sheet.php', the '_template/index.php' file --> 
+	<set>
+		<translation>
+			<base>Request Press Copy</base>
+			<local>Request Press Copy</local>
+		</translation>
+		<translation>
+			<base>Monetization Permission</base>
+			<local>Monetization Permission</local>
+		</translation>
+		<translation>
+			<base>About %s</base>
+			<local>關於 %s</local>
+		</translation>
+		<translation>
+			<base>Release date:</base>
+			<local>發售日:</local>
+		</translation>
+		<translation>
+			<base>Platforms:</base>
+			<local>發行平台:</local>
+		</translation>
+		<translation>
+			<base>Regular Price:</base>
+			<local>售價:</local>
+		</translation>
+		<translation>
+			<base>Features</base>
+			<local>內容</local>
+		</translation>
+		<translation>
+			<base>download all screenshots &amp; photos as .zip (%s)</base>
+			<local>下載所有截圖和照片的.zip壓縮檔 (%s)</local>
+		</translation>
+		<translation>
+			<base><![CDATA[There are currently no screenshots available for %s. Check back later for more or <a href="#contact">contact us</a> for specific requests!]]></base>
+			<local><![CDATA[目前沒有%s的遊戲截圖. 之後再回來看看，或是透過 <a href="#contact">聯絡我們</a> 來提供你的需求喔]]></local>
+		</translation>
+		<translation>
+			<base>Please fill in your e-mail address below and we'll get back to you as soon as a press copy is available for you.</base>
+			<local>請在下頭填寫你的e-mail，當副本準備好後，我們會盡快聯絡您.</local>
+		</translation>
+		<translation>
+			<base>me@website.com</base>
+			<local>me@website.com</local>
+		</translation>			
+		<translation>
+			<base>, writing for </base>
+			<local>, 寫給 </local>
+		</translation>			
+		<translation>
+			<base>company name</base>
+			<local>吉比遊戲</local>
+		</translation>			
+		<translation>
+			<base> would like to </base>
+			<local> 會想要 </local>
+		</translation>
+		<translation>
+			<base>request a press copy</base>
+			<local>要求一份副本</local>
+		</translation>
+		<translation>
+			<base><![CDATA[Alternatively, you can always request a press copy by <a href="#contact">sending us a quick email</a>.]]></base>
+			<local><![CDATA[另外, 你可以 <a href="#contact">寄給我們一封信</a> 來要求一份press的副本.]]></local>
+		</translation>	
+		<translation>
+			<base><![CDATA[Thanks for the request. We'll be in touch as soon as possible. In the meanwhile, feel free to <a href="#contact">follow up with any questions or requests you might have!</a>]]></base>
+			<local><![CDATA[Thanks for the request. We'll be in touch as soon as possible. In the meanwhile, feel free to <a href="#contact">follow up with any questions or requests you might have!</a>]]></local>
+		</translation>
+		<translation>
+			<base><![CDATA[We could not validate your email address. Please try contacting us using <a href="#contact">one of the options listed here</a>.]]></base>
+			<local><![CDATA[We could not validate your email address. Please try contacting us using <a href="#contact">one of the options listed here</a>.]]></local>
+		</translation>
+		<translation>
+			<base><![CDATA[Please fill in all the fields or try contacting us using <a href="#contact">one of the options listed here</a>.]]></base>
+			<local><![CDATA[Please fill in all the fields or try contacting us using <a href="#contact">one of the options listed here</a>.]]></local>
+		</translation>
+		<translation>
+			<base><![CDATA[We failed to send the email. Please try contacting us using <a href="#contact">one of the options listed here</a>.]]></base>
+			<local><![CDATA[We failed to send the email. Please try contacting us using <a href="#contact">one of the options listed here</a>.]]></local>
+		</translation>		
+		<translation>
+			<base>Boilerplate</base>
+			<local>Boilerplate</local>
+		</translation>
+		<translation>
+			<base>More information</base>
+			<local>More information</local>
+		</translation>
+		<translation>
+			<base><![CDATA[More information on %s, our logo & relevant media are available <a href="%s">here</a>.]]></base>
+			<local><![CDATA[More information on %s, our logo & relevant media are available <a href="%s">here</a>.]]></local>
+		</translation>
+		<translation>
+			<base>%s does currently not allow for the contents of %s to be published through video broadcasting services.</base>
+			<local>%s does currently not allow for the contents of %s to be published through video broadcasting services.</local>
+		</translation>
+		<translation>
+			<base>%s does allow the contents of this game to be published through video broadcasting services only with direct written permission from %s. Check at the bottom of this page for contact information.</base>
+			<local>%s does allow the contents of this game to be published through video broadcasting services only with direct written permission from %s. Check at the bottom of this page for contact information.</local>
+		</translation>
+		<translation>
+			<base>%s allows for the contents of %s to be published through video broadcasting services for non-commercial purposes only. Monetization of any video created containing assets from %s is not allowed.</base>
+			<local>%s allows for the contents of %s to be published through video broadcasting services for non-commercial purposes only. Monetization of any video created containing assets from %s is not allowed.</local>
+		</translation>
+		<translation>
+			<base>%s allows for the contents of %s to be published through video broadcasting services for any commercial or non-commercial purposes. Monetization of videos created containing assets from %s is legally &amp; explicitly allowed by %s.</base>
+			<local>%s allows for the contents of %s to be published through video broadcasting services for any commercial or non-commercial purposes. Monetization of videos created containing assets from %s is legally &amp; explicitly allowed by %s.</local>
+		</translation>
+		<translation>
+			<base><![CDATA[This permission can be found in writing at <a href="%s">%s</a>.]]></base>
+			<local><![CDATA[This permission can be found in writing at <a href="%s">%s</a>.]]></local>
+		</translation>
+		<translation>
+			<base>%s Credits</base>
+			<local>%s Credits</local>
+		</translation>
+		<translation>
+			<base>press kit</base>
+			<local>press kit</local>
+		</translation>
+	</set>	
+</language>
