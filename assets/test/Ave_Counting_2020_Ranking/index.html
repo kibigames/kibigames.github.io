@@ -2,8 +2,6 @@
 <html lang="en">
 <head>
 	<title>從零開始的數鷹生活～呼呦～ 排行榜</title>
-    <meta http-equiv="X-UA-Compatible" content="IE=edge" />
-    <meta http-equiv="pragma" content="no-cache"/>
 	<meta charset="UTF-8">
 	<meta name="viewport" content="width=device-width, initial-scale=1">
 <!--===============================================================================================-->	
@@ -44,6 +42,7 @@
 								<tr id="placeholder" class="row100"><td class="column100 column1">呼唷</td><td class="column100 column2">讀取中...</td><td class="column100 column3">等待過久請嘗試重整網頁</td></tr>
 							</tbody>
 						</table>
+						<label id="placeholder2">*Adblock要關掉唷*</label >
 					</div>
 				</div>
 			</div>
@@ -60,16 +59,8 @@
 <!--===============================================================================================-->
 	<script src="js/main.js"></script>
 
-	<script type="text/javascript" crossorigin="anonymous">
+	<script type="text/javascript">
 		
-
-
-		// log the returned data
-		function loadData(e) 
-		{
-			console.log(e);
-		}
-
 		function httpGet(theUrl)
 		{
 		    var xmlHttp = new XMLHttpRequest();
@@ -86,7 +77,6 @@
 		            callback(xmlHttp.responseText);
 		    }
 		    xmlHttp.open("GET", theUrl, true); // true for asynchronous 
-		    xmlHttp.setRequestHeader('Content-Type', 'application/x-www-form-urlencoded');
 		    xmlHttp.send(null);
 		}
 
@@ -100,7 +90,7 @@
 
 			//Remove placeholder
 			placeholder.parentNode.removeChild(placeholder);
-			
+			placeholder2.parentNode.removeChild(placeholder2);
 			//
 			var sheet = jsonData.sheet;
 
