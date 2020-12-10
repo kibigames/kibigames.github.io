@@ -58,8 +58,16 @@
 <!--===============================================================================================-->
 	<script src="js/main.js"></script>
 
-	<script type="text/javascript">
+	<script type="text/javascript" crossorigin="anonymous">
 		
+
+
+		// log the returned data
+		function loadData(e) 
+		{
+			console.log(e);
+		}
+
 		function httpGet(theUrl)
 		{
 		    var xmlHttp = new XMLHttpRequest();
