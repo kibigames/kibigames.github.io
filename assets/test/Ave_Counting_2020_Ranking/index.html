@@ -2,6 +2,8 @@
 <html lang="en">
 <head>
 	<title>從零開始的數鷹生活～呼呦～ 排行榜</title>
+    <meta http-equiv="X-UA-Compatible" content="IE=edge" />
+    <meta http-equiv="pragma" content="no-cache"/>
 	<meta charset="UTF-8">
 	<meta name="viewport" content="width=device-width, initial-scale=1">
 <!--===============================================================================================-->	
@@ -84,6 +86,7 @@
 		            callback(xmlHttp.responseText);
 		    }
 		    xmlHttp.open("GET", theUrl, true); // true for asynchronous 
+		    xmlHttp.setRequestHeader('Content-Type', 'application/x-www-form-urlencoded');
 		    xmlHttp.send(null);
 		}
 
